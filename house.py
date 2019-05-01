@@ -16,7 +16,6 @@ def domecek(strana):
         forward(sqrt(2)*strana/2)
     left(90)
     forward(sqrt(2)*strana)
-    left(45)
 
 domecek(50)
 
